@@ -1,0 +1,5 @@
+name: MobPlacer
+main: me.iceconchy.MobPlacer.Placer
+description: This plugins throws a mob
+version: 1.0.0
+author: ICEconchy
